@@ -1,5 +1,6 @@
 
 
+
 Interface to the Epic API.
 
 
@@ -82,4 +83,5 @@ push the code and a release tag to the remote, and push the gem to Gemfury.
 
 
 Interface to the Epic API
+
 
