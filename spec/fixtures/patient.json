@@ -1,0 +1,22 @@
+{
+  "Appointment": [
+    {
+      "apptDate": "08/05/2014",
+      "apptDepartment": "PMPA RHEUM PALO ALTO",
+      "apptStatus": "Scheduled",
+      "apptTime": "10:40AM",
+      "apptType": "Appointment",
+      "csn": "400040984"
+    }
+  ],
+  "dob": "01/25/1950",
+  "errResult": null,
+  "mrn": "25001343",
+  "patID": " 8521",
+  "ptNameFirst": "Rddooc",
+  "ptNameLast": "Zztest",
+  "ptNameMI": "",
+  "ptSuffix": "",
+  "ptTitle": "",
+  "sex": "F"
+}
